@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Ulvenas/Riksdagsledamot-app.git/static/css/main.4250a6e0.chunk.css",
+    "main.js": "/Ulvenas/Riksdagsledamot-app.git/static/js/main.c246f021.chunk.js",
+    "main.js.map": "/Ulvenas/Riksdagsledamot-app.git/static/js/main.c246f021.chunk.js.map",
+    "runtime-main.js": "/Ulvenas/Riksdagsledamot-app.git/static/js/runtime-main.a54f9a02.js",
+    "runtime-main.js.map": "/Ulvenas/Riksdagsledamot-app.git/static/js/runtime-main.a54f9a02.js.map",
+    "static/css/2.ef9168ec.chunk.css": "/Ulvenas/Riksdagsledamot-app.git/static/css/2.ef9168ec.chunk.css",
+    "static/js/2.3a3f3a2a.chunk.js": "/Ulvenas/Riksdagsledamot-app.git/static/js/2.3a3f3a2a.chunk.js",
+    "static/js/2.3a3f3a2a.chunk.js.map": "/Ulvenas/Riksdagsledamot-app.git/static/js/2.3a3f3a2a.chunk.js.map",
+    "index.html": "/Ulvenas/Riksdagsledamot-app.git/index.html",
+    "static/css/2.ef9168ec.chunk.css.map": "/Ulvenas/Riksdagsledamot-app.git/static/css/2.ef9168ec.chunk.css.map",
+    "static/css/main.4250a6e0.chunk.css.map": "/Ulvenas/Riksdagsledamot-app.git/static/css/main.4250a6e0.chunk.css.map",
+    "static/js/2.3a3f3a2a.chunk.js.LICENSE.txt": "/Ulvenas/Riksdagsledamot-app.git/static/js/2.3a3f3a2a.chunk.js.LICENSE.txt",
+    "static/media/c.aff87166.png": "/Ulvenas/Riksdagsledamot-app.git/static/media/c.aff87166.png",
+    "static/media/kd.7ec9f92c.png": "/Ulvenas/Riksdagsledamot-app.git/static/media/kd.7ec9f92c.png",
+    "static/media/m.0c4cddb9.png": "/Ulvenas/Riksdagsledamot-app.git/static/media/m.0c4cddb9.png",
+    "static/media/mp.fe2af24e.png": "/Ulvenas/Riksdagsledamot-app.git/static/media/mp.fe2af24e.png",
+    "static/media/sd.0fe33f6a.png": "/Ulvenas/Riksdagsledamot-app.git/static/media/sd.0fe33f6a.png",
+    "static/media/App.css": "/Ulvenas/Riksdagsledamot-app.git/static/media/sveriges-riksdag.2082ce06.svg",
+    "static/media/v.e6737523.png": "/Ulvenas/Riksdagsledamot-app.git/static/media/v.e6737523.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a54f9a02.js",
+    "static/css/2.ef9168ec.chunk.css",
+    "static/js/2.3a3f3a2a.chunk.js",
+    "static/css/main.4250a6e0.chunk.css",
+    "static/js/main.c246f021.chunk.js"
+  ]
+}
