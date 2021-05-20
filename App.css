@@ -1,0 +1,63 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  height:80px;
+  background: url(sveriges-riksdag.svg);
+  background-size: 100px 82px;
+  background-repeat: no-repeat;
+  background-color: #F0F0F0;
+  border-bottom: 2px #F0F0F0 solid;
+}
+
+.partyMenu {
+  padding: 40px;
+}
+
+.title {
+  text-align: left;
+  padding-left: 38px;
+  margin-top: 15px;
+}
+
+#logo {
+  width: 75px;
+  height: 80px;
+}
+
+.ledamot {
+  margin-bottom: 40px;
+  width: 90px;
+  margin-right: 157px;
+}
+
+.image {
+  border: 1px #F0F0F0 solid;
+}
+
+.body {
+  width: 90%;
+  margin: auto;
+  border: 8px #F0F0F0 solid;
+}
+
+.box {
+  margin-top: 30px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.name {
+  width: 194px;
+}
+
+.spinner {
+  margin-top: 180px;
+}
+
+ul, h1, h2, h3, p {
+  font-family: Lato, serif;
+  list-style-type: none;
+}
